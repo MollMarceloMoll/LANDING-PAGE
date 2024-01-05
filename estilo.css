@@ -1,0 +1,87 @@
+.container {
+    margin-top: 10px;
+}
+.titulo {
+    font-size: 1.5rem;
+    text-align: left;
+    color: rgb(13, 13, 126);
+}
+.img {
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+}
+.section1 {
+    margin-top: 70px;
+}
+.secH3 {
+    color: rgb(13, 13, 126);
+}
+.sec1H5 {
+    margin-top: 40px;
+    color: darkgrey;
+}
+.img-fluid {
+    border-radius: 15px;
+}
+.section2 {
+    margin-top: 70px;
+}
+.section2 h2 {
+    text-align: center;
+    color: rgb(13, 13, 126);
+}
+.sec2H5 {
+    margin-top: 25px;
+    text-align: center;
+    color: darkgrey;
+}
+.section2 .row .row {
+    margin-top: 50px;
+}
+.sec2ColH5 {
+    text-align: center;
+    color: rgb(13, 13, 126);
+    margin-bottom: 25px;
+}
+.sec2ColH7 {
+    color: darkgrey;
+}
+
+.section3 {
+    margin-top: 200px;
+}
+.sec3H2 {
+    color: rgb(13, 13, 126);
+}
+.secH5 {
+    margin-top: 15px;
+    color: darkgrey;
+}
+.boton {
+    margin-top: 30px;
+}
+.sec3Row {
+    margin-top: 50px;
+}
+.sec3Col {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.sec3H5 {
+    color: rgb(13, 13, 126);
+    margin-top: 10px;
+    text-align: center;
+}
+.sec3P {
+    color: darkgrey;
+}
+footer {
+    margin-top: 100px;
+}
+footer h1 {
+    color: rgb(13, 13, 126);
+}
+footer ul {
+    margin-top: 100px;
+}
